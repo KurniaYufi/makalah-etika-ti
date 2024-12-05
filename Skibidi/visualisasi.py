@@ -10,7 +10,8 @@ stopwords = {
     'kamu', 'saya', 'aku', 'nya', 'yg', 'ga', 'gak', 'tidak', 'aja', 'loh', 'deh',
     'kok', 'nih', 'dong', 'kayak', 'juga', 'buat', 'kalo', 'kalau', 'udah', 'belum',
     'bisa', 'karena', 'hanya', 'lebih', 'masih', 'bukan', 'ada', 'mau', 'sama', 'ya', 'apa', 'bang', 'gitu', 'tapi', 'gk', 'kek', '😭', 'lagi', 'untung',
-    'lu', 'tau', 'bg', 'abdi', 'jadi', 'ku', 'geda', 'jir', 'makan', 'gini', 'sih', 'bgt', 'mana', 'dia', 'the', 'suka', 'banget', 'kata'
+    'lu', 'tau', 'bg', 'abdi', 'jadi', 'ku', 'geda', 'jir', 'makan', 'gini', 'sih', 'bgt', 'mana', 'dia', 'the', 'suka', 'banget', 'kata',
+    'ngerti','bintang'
 }
 
 # Fungsi untuk menghapus emotikon dari teks

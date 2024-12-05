@@ -12,7 +12,7 @@ stopwords = {
     'lu', 'tau', 'bg', 'abdi', 'jadi', 'ku', 'geda', 'jir', 'makan', 'gini', 'sih', 'bgt', 'mana', 'dia', 'the', 'suka', 'banget', 'kata',
     'me', 'i', 'you', 'are', 'a', 'is', 'to', 'and', 'be', ':', '.', '!', '?', ',', 'the', 'of', 'for', 'on', 'at', 'by', 'with', 'as', 'this', 'that', 
     'it', 'in', 'an', 'from', 'up', 'down', 'out', 'all', 'some', 'more', 'no', 'so', 'much', 'than', 'its', 'have', 'had', 'having','gw:','dia:','if','kenapa','my','u','your',
-    'do','ngerti','cuz','see','can'
+    'do','ngerti','cuz','see','can','but','know','just','apa?','not','because','cause','im','without','kak','can','one','only','when','aku:'
 }
 
 def remove_emoticons(text):

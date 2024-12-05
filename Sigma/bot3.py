@@ -4,11 +4,11 @@ import os
 
 # List URL TikTok posts
 post_urls = [
-    'https://www.tiktok.com/@thejokels/video/7366140715606265093',  # Ganti dengan URL video pertama
-    'https://www.tiktok.com/@rusdi.curington/video/7398819986409590021',  # Ganti dengan URL video kedua
-    'https://www.tiktok.com/@sigma_troll/video/7238644139477273862',  # Ganti dengan URL video ketiga
-    'https://www.tiktok.com/@admin.sikma_/video/7381649643249143045',  # Ganti dengan URL video keempat
-    'https://www.tiktok.com/@mrci.tv/video/7379185769686027526'   # Ganti dengan URL video kelima
+    'https://www.tiktok.com/@thejokels/video/7366140715606265093',  
+    'https://www.tiktok.com/@rusdi.curington/video/7398819986409590021',  
+    'https://www.tiktok.com/@sigma_troll/video/7238644139477273862',  
+    'https://www.tiktok.com/@admin.sikma_/video/7381649643249143045',  
+    'https://www.tiktok.com/@mrci.tv/video/7379185769686027526'   
 ]
 
 # Headers untuk request
